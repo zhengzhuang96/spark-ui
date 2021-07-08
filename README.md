@@ -1,24 +1,23 @@
-# rain-ui
+## <center>Spark-ui</center>
 
-## Project setup
-```
-npm install
-```
+<center>一个Vue3组建库</center>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### <center>暂时不完整，目前正在更新中，下班休息时间在搞，慢慢来</center>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 文档
 
-### Lints and fixes files
+Button
+
+待更新
+### 安装
+#### npm
+使用npm安装
+
 ```
-npm run lint
+npm i spark-ui --save 
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+import SparkUI from "spark-ui/packages";
+createApp(App).use(SparkUI).mount('#app')
+```
