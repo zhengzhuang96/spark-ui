@@ -2,9 +2,9 @@
  * @Author: zhengzhuang
  * @Date: 2021-07-07 17:31:19
  * @LastEditors: zhengzhuang
- * @LastEditTime: 2021-07-08 09:58:16
+ * @LastEditTime: 2021-07-08 11:38:13
  * @Description: In User Settings Edit
- * @FilePath: /rain-ui/packages/rain-button/src/button.vue
+ * @FilePath: /spark-ui/packages/spark-button/src/button.vue
 -->
 <template>
   <button
@@ -36,7 +36,7 @@
 import { computed } from '@vue/runtime-core'
 import '../../theme-chalk/src/button.scss'
 export default {
-  name: 'RainButton',
+  name: 'SparkButton',
   inject: {
     elForm: {
       default: ''

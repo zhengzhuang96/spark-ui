@@ -2,11 +2,11 @@
  * @Author: zhengzhuang
  * @Date: 2021-07-07 17:37:24
  * @LastEditors: zhengzhuang
- * @LastEditTime: 2021-07-07 17:37:45
+ * @LastEditTime: 2021-07-08 11:38:35
  * @Description: In User Settings Edit
- * @FilePath: /rain-ui/packages/index.js
+ * @FilePath: /spark-ui/packages/index.js
  */
-import RainButton from './rain-button'
+import RainButton from './spark-button'
 // 所有组件列表
 const components = [
   RainButton

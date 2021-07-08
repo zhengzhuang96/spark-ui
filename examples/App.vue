@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <rain-button>123</rain-button>
+  <spark-button>123</spark-button>
 </template>
 
 <script>
