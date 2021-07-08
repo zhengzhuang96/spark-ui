@@ -2,7 +2,7 @@
 node_modules
 /dist
 /lib
-/website/doce/.vuepress/dist
+/website/docs/.vuepress/dist/
 
 
 # local env files
